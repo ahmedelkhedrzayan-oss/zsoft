@@ -1,2 +1,2 @@
-2.0.0.15
-https://github.com/ahmedelkhedrzayan-oss/zsoft/releases/download/2.0.014/zsoftupdate.zip
+2.0.0.16
+https://github.com/ahmedelkhedrzayan-oss/zsoft/releases/download/2.0.014/update.zip
